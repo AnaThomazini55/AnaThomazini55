@@ -1,5 +1,5 @@
 
-### Hey, I'm Guilherme Medeiros!  👋
+### Hey, I'm Ana Thomazini!  👋
 
 I'm a Front-End developer. 👨🏻‍💻 <br>
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
@@ -15,7 +15,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🌍 About me 
 - 📍 ˢᵖ  São Paulo 
-- 🧑🏻 16 Years
+- 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
 
 <div align="center">
